@@ -1,0 +1,10 @@
+# Global
+.DS_Store
+node_modules
+dist
+
+# local env files
+.env
+.envrc
+.env.local
+.env.*.local
