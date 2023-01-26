@@ -7,7 +7,7 @@ const router = new Router()
 
 const noop = require('./apis/noop')
 
-router.get('/price/:symbol', price.tokenPrice)
+router.get('/price/:input', price.tokenPrice)
 router.get('/prices', price.tokenPrices)
 
 router.get('/', noop)

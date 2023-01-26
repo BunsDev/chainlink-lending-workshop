@@ -16,8 +16,7 @@ Install the [Serverless Framework CLI](https://www.serverless.com/framework/docs
 ## Getting Started
 
 ```bash
-git clone git@github.com:BunsDev/serverless.git
-cd serverless
+git clone https://github.com/BunsDev/Chainlink-Lending-Workshop.git
 nvm use
 npm install
 ```
