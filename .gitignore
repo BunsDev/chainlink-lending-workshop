@@ -2,4 +2,6 @@ node_modules/
 .env
 .DS_STORE
 
-/.serverless/
+.serverless
+
+yarn.lock
