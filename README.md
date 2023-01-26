@@ -7,4 +7,4 @@ Workshop repository to coincide with the Chainlink Lending Workshop hosted at Qu
 3. Security Considerations
 
 ## Presentation Notes
-Review the full presentation online: https://prezi.com/p/edit/nvru24w3cpbg/?start-live-prezi=true
+Review the full presentation online: https://prezi.com/view/DbsNOnsiLgA1pY0AjchE
