@@ -1,7 +1,7 @@
 const API_BASE_URL = 'http://localhost:3002'
 const CHAIN_ID = 250
 const RPC = 'https://rpc.ankr.com/fantom'
-// const NATIVE_SYMBOL = 'FTM'
+const NATIVE_SYMBOL = 'FTM'
 
 // note: addresses are standardized as lowercase //
 const NATIVE_ORACLE = '0xf4766552d15ae4d256ad41b6cf2933482b0680dc'
